@@ -1,2 +1,0 @@
-# publicimages
-Image hosting
